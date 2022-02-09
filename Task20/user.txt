@@ -1,0 +1,4 @@
+admin, adm1n
+valery, valery1
+tom, 1234
+peter, peter1
